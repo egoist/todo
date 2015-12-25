@@ -2,7 +2,7 @@
 
 - Rule the web
 - Conquer the World
-- Or get a girlfreind?
+- Or get a girlfriend?
 - [Track my todo list](/issues)
 
 ---
