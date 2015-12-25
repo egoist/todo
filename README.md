@@ -7,4 +7,4 @@
 
 ---
 
-[Click here to share you ideas worth al lot more people working on](https://github.com/LightBulb/LightBulb).
+[Click here to share you ideas which worth a lot more people working on](https://github.com/LightBulb/LightBulb).
